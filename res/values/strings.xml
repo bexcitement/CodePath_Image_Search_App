@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Becca\'s Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchBtn">Search</string>
+    <string name="searchTerm">Enter a search term!</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_image_search_settings">ImageSearchSettings</string>
+    <string name="advancedSearch">Advanced Search Options</string>
+    <string name="imageSize">"Image Size: "</string>
+    <string name="imageSmall">small</string>
+    <string name="imageMedium">medium</string>
+    <string name="imageLarge">large</string>
+    <string name="savebtn">SAVE</string>
+    <string name="colorFilter">"Color Filter: "</string>
+    <string name="imageType">"Image Type: "</string>
+    <string name="siteFilter">"Site Filter: "</string>
+    
+    <string-array name="imageSizes">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+    
+    <string-array name="imageColors">
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+    
+    <string-array name="imageTypes">
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+        <string name="colorPink">pink</string>
+
+</resources>
